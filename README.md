@@ -131,4 +131,4 @@ AI API        POST /chat             챗봇 질문 전송 및 응답 수신
 ## 📸 화면 예시
 
 ![웹 목업 화면](./mockup-preview.png)
-
+![모바일 목업 화면](./mockup-mobilepreview.png)
