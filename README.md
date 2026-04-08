@@ -127,3 +127,7 @@ AI API        POST /chat             챗봇 질문 전송 및 응답 수신
 | 서버 상태 관리 | TanStack Query | 캐싱·자동갱신·에러 처리 자동화 |
 | HTTP 통신 | axios | 공통 설정 및 에러 처리 편의성 |
 | 스타일링 | Tailwind CSS | 빠른 UI 구성, 유지보수 용이 |
+
+## 📸 화면 예시
+
+![웹 목업 화면](./mockup-preview.png)
